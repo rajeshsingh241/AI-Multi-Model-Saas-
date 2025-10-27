@@ -1,5 +1,13 @@
 # 🤖 AI Multi-Model SaaS Platform
 
+> Your personal AI workspace powered by multiple AI models ✨
+
+🎬 **App Demo:**
+
+https://github.com/user-attachments/assets/24619db7-4db8-4081-bea9-0c41799c3d2b
+
+---
+
 An advanced **AI-powered multi-model SaaS platform** that brings together multiple AI models (ChatGPT, Claude, Gemini, etc.) into a single chat experience.  
 Built with **Next.js, Shadcn UI, Clerk, Arcjet, and Firebase**, this app combines performance, security, and intelligent automation — all in one place.
 
