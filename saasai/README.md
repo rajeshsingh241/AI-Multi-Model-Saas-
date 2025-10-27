@@ -46,5 +46,16 @@ Built with **Next.js, Shadcn UI, Clerk, Arcjet, and Firebase**, this app combine
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/rajeshsingh241/AI-Multi-Model-Saas.git
-cd AI-Multi-Model-Saas
+git clone https://github.com/rajeshsingh241/AI-Multi-Model-Saas-.git
+cd AI-Multi-Model-Saas-
+npm install
+# 2️ Create .env file
+Create a `.env.local` file in the root folder and add your keys:
+
+NEXT_PUBLIC_FIREBASE_API_KEY=your_firebase_key
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key
+ARCJET_API_KEY=your_arcjet_key
+and many more api involved ...
+
+# 3️ Run the development server
+npm run dev
